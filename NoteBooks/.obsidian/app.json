@@ -1,0 +1,12 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "foldHeading": true,
+  "foldIndent": false,
+  "showLineNumber": false,
+  "vimMode": false,
+  "readableLineLength": true,
+  "showFrontmatter": false,
+  "lineWrap": true
+}

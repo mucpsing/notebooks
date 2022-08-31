@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "path:【02】后端相关/Python",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:【01】前端相关",
+      "color": {
+        "a": 1,
+        "rgb": 6021202
+      }
+    },
+    {
+      "query": "path:【02】后端相关",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.8,
+  "nodeSizeMultiplier": 1.23076923076923,
+  "lineSizeMultiplier": 3.24102564102564,
+  "collapse-forces": false,
+  "centerStrength": 0.786324786324786,
+  "repelStrength": 9.57264957264957,
+  "linkStrength": 0.666666666666667,
+  "linkDistance": 239,
+  "scale": 0.7132754626224556,
+  "close": true
+}

@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "dev": "vitepress dev NoteBooks",
+    "docs:dev": "vitepress dev NoteBooks",
+    "docs:build": "vitepress build NoteBooks",
+    "docs:serve": "vitepress serve NoteBooks"
+  },
+  "name": "NoteBooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.0.0",
+    "globby": "11.0.4",
+    "markdown-it-attr-link-replacer": "^1.2.0",
+    "markdown-it-replace-link": "^1.1.0",
+    "vitepress": "^1.0.0-alpha.12",
+    "vue": "^3.2.37"
+  }
+}

@@ -1,0 +1,13 @@
+DIR:.vitepress          # 
+   |-- theme/           # 「theme」
+   |   |-- components/  # 「components」
+   |   |   `-- test.vue # 
+   |   |-- style/       # 「style」
+   |   |   `-- vars.css # 
+   |   |-- Layout.vue   # 
+   |   `-- index.ts     # 
+   |-- utils.ts         # 
+   |-- Sidebar.ts       # 
+   |-- Nav.ts           # 
+   |-- Header.ts        # 
+   `-- config.ts        # 

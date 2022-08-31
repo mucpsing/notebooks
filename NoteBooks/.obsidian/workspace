@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "223d6f4505eae4d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc46fe32cc90e7eb",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca8839cbf7a5b2f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "324e6144c4279ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49a9312ee3745aad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f526489b938712a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#号，即放开",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237
+  },
+  "right": {
+    "id": "e0df26741bf04ed5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f9784a67fb52d5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5357c53a49ead803",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dc46fe32cc90e7eb",
+  "lastOpenFiles": [
+    "【05】项目经历/多图片旋转案例.md",
+    "【05】项目经历/05 psd文件解析/开发进度/接口说明文档.md",
+    "【02】后端相关/Python/内置模块/argparse.md",
+    "【01】前端相关/JavaScript/实用工具函数.md",
+    "【02】后端相关/Python/常用模块/CV2/信用卡车牌检测.md",
+    "【02】后端相关/Python/常用功能/【参数】参数解析.md",
+    "参数解析.md",
+    "【02】后端相关/Python/pip.md",
+    "【00】编程基础/git/【工作流】AoneFlow.md",
+    "index.md"
+  ]
+}

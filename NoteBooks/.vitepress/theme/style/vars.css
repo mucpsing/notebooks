@@ -1,0 +1,41 @@
+/*
+ * @Author: CPS
+ * @email: 373704015@qq.com
+ * @Date: 2022-08-31 09:02:38.813844
+ * @Last Modified by: CPS
+ * @Last Modified time: 2022-08-31 09:02:38.813844
+ * @Projectname
+ * @file_path "W:\CPS\MyProject\cps\NoteBooks\.vitepress\theme\style"
+ * @Filename "vars.css"
+ * @Description: 功能描述
+ */
+
+:root {
+  /* 默认样式样色的主色调 */
+  --vp-c-green: #0396ff;
+  --vp-c-green-light: #59b9fd;
+  --vp-c-green-lighter: #a8dafe;
+  --vp-c-green-dark: #2f87c5;
+  --vp-c-green-darker: #40779e;
+
+  --vp-c-green-dimm-1: rgba(66, 184, 131, 0.5);
+  --vp-c-green-dimm-2: rgba(66, 184, 131, 0.25);
+  --vp-c-green-dimm-3: rgba(66, 184, 131, 0.05);
+
+  /* sponsor 的主色调 */
+  --vp-c-sponsor: #0396ff;
+  --coustom-color-blue: linear-gradient(135deg, #abdcff 10%, #0396ff 100%);
+
+  /* 按钮  */
+  /*--vp-c-brand: var(--coustom-color-blue);
+  --vp-c-brand-light: var(--vp-c-green-light);
+  --vp-c-brand-lighter: var(--vp-c-green-lighter);
+  --vp-c-brand-dark: var(--vp-c-green-dark);
+  --vp-c-brand-darker: var(--vp-c-green-darker);*/
+
+  /* 标题颜色 */
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: var(--coustom-color-blue);
+  --vp-home-hero-image-background-image: none;
+  --vp-home-hero-image-filter: none;
+}
